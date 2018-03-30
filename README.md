@@ -210,6 +210,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
  * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
+## E-Commerce
+* [Easy E-Commerce Using Laravel and Stripe](https://leanpub.com/easyecommerce) by W. Jason Gilmore and Eric L. Barnes
+* [E-Commerce API & Admin Hub](https://getcandy.io) - https://github.com/alecritson
+
 ## Articles, Tutorials, Blogs etc.
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
@@ -313,7 +317,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel - My First Framework](https://leanpub.com/laravel-first-framework) by Maksim Surguy
 * [Easy Laravel 5](https://leanpub.com/easylaravel/) by W. Jason Gilmore
 * [Laravel 5 Essentials](https://www.packtpub.com/web-development/laravel-5-essentials) by Martin Bean
-* [Easy E-Commerce Using Laravel and Stripe](https://leanpub.com/easyecommerce) by W. Jason Gilmore and Eric L. Barnes
 * [Laravel 5.1 Beauty](https://leanpub.com/l5-beauty) by Chuck Heintzelman
 * [Design Patterns with PHP and Laravel](https://leanpub.com/larasign) by Kelt Dockins
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
